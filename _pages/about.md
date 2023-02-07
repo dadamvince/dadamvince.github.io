@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[SITE UNDER CONSTRUCTION]</a>.
+subtitle: <a href='#'>[SITE UNDER CONSTRUCTION - VISIT SOON]</a>
 
 profile:
   align: right
   image:
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Tukkiewerf 2.8</p>
+    <p>Tukkiewerf 2-08</p>
     <p>Department of Economics</p>
     <p>University of Pretoria South Africa</p>
 
