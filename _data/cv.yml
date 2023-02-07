@@ -11,24 +11,28 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D (Economics)
       institution: University of Pretoria, Pretoria, South Africa
       year: 2018
       description:
-        - Thesis: Structural Unemployment, Labour Market Dynamics and the Transmission of Monetary Policy in South Africa
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation - Structural Unemployment, Labour Market Dynamics and the Transmission of Monetary Policy in South Africa
+    - title: Master of Commerce (Economics)
+      institution: University of Pretoria, Pretoria, South Africa
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - Mini-dissertation - Monetary Policy in an Economy with High Structural Unemployment
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Affliate
+      institution: Universite de Rouen Normandie
+      year: 2022 - Present
+      description:
+      
+    - title: Policy Associate
+      institution: Economic Research Southern Africa
+      year: 2021 - Present
       description:
         - Description 1.
         - Description 2.
