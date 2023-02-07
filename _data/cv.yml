@@ -29,68 +29,47 @@
       institution: Universite de Rouen Normandie
       year: 2022 - Present
       description:
-      
+
     - title: Policy Associate
       institution: Economic Research Southern Africa
       year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Postdoctoral Fellow
+      institution: University of Pretoria - South African Reserve Bank
+      year: 2018 - Present
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Consultant
+      institution: South African Reserve Bank.
+      year: 2019
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Short Term Consultant
+      institution: World Bank Group
+      year: 2017-2019
+      description:
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Fund Summer Intern
+      institution: International Monetary Fund
+      year: 2016
+
+    - title: Lecturer
+      institution: University of Pretoria
+      year: 2015
+
+    - title: Research Assistant
+      institution: University of Pretoria
+      year: 2012-2017
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Macromodelling of the labour market
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+
+    - title: Monetary policy.
       items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Football, Billiards, Cinema, Music, Travels.
