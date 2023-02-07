@@ -61,13 +61,9 @@
       year: 2012-2017
 
 - title: Academic Interests
-  #type: #nested_list
+  type: list
   contents:
-    - title: Macromodelling of the labour market
-      items:
-
-    - title: Monetary policy.
-      items:
+    - Macromodelling of the labour market, Monetary policy.
 
 - title: Other Interests
   type: list
