@@ -4,7 +4,7 @@ title: Labour Market Flows with Heterogeneity and Capital
 description:
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Work in progress
 ---
 
 An investigation of labour market flows in

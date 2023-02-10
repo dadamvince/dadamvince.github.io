@@ -5,14 +5,14 @@ description: A work in progress with Prof Mehmet Balcilar of the Eastern Mediter
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Work in progress
 ---
 
 This estimation approach focuses particularly
 on the COVID-19 era using various measures of economic activity to better capture an estimate of
 the output gap. We use both the Oxford Stringency and Google Mobility indices to better estimate
 potential GDP in order to derive a more accurate definition of the output gap which in turns leads
-to a more convincing estimate for the natural rate of interest. 
+to a more convincing estimate for the natural rate of interest.
 
     ---
     layout: page

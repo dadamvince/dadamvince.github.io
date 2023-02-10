@@ -4,7 +4,7 @@ title: Mobile Money in an Era of Cryptocurrencies
 description: With Cyril Dell'Eva (Laboratoire d'Economie Rouen Normandie)
 img:
 importance: 3
-category: fun
+category: Work in progress
 ---
 
 We study the evolution of mobile money in
