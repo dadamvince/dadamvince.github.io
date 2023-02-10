@@ -1,17 +1,20 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Hysteresis in Unemployment
+description:
+img: assets/img/12.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Hysteresis in unemployment: This is achieved through two approaches. First we used the
+Preisach model - a mathematical framework for hysteresis in physics - to derive an index of hysteresis
+in the unemployment data where only long lasting shocks remain in the memory bank of
+the series (see Piscitelli, Cross, Grinfeld, and Lamba (2000)). Second, we use a DSGE model a la
+Blanchard and Gal´ı (2010) which we extend on two fronts: (i) we account for the external sector
+following Gali and Monacelli (2005); (ii) we use the framework of Gal´ı (2015) that introduces hysteresis in the labour market in a DSGE setting. This allows us to derive a marginal cost of firms
+that depends directly on labour market variables (unemployment in particular), on the hysteresis
+parameter and on terms of trade
 
     ---
     layout: page

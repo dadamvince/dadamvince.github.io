@@ -1,18 +1,18 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: An Estimation of the Natural Rate of Interest
+description: A work in progress with Prof Mehmet Balcilar of the Eastern Mediterranean University in Cyprus
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This estimation approach focuses particularly
+on the COVID-19 era using various measures of economic activity to better capture an estimate of
+the output gap. We use both the Oxford Stringency and Google Mobility indices to better estimate
+potential GDP in order to derive a more accurate definition of the output gap which in turns leads
+to a more convincing estimate for the natural rate of interest. 
 
     ---
     layout: page
