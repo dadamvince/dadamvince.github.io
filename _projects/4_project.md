@@ -14,6 +14,7 @@ mobile operator Orange who has agreed to share the significantly rich data we in
 multiple fronts. That includes - but not limited to - a panel analysis and a geospatial
 analysis that will give us a bird’s eye view of the evolution of the transactions using mobile money
 through time.
+This project is part of an international network of research with the goal of investigating the digital currencies in central banks.
 
     ---
     layout: page
