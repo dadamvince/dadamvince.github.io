@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 display_categories: [Work in progress]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
