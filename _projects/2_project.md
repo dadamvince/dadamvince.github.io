@@ -4,7 +4,7 @@ title: Hysteresis in Unemployment
 description:
 img: #assets/img/12.jpg
 importance: 2
-category: Work in progress
+category: Solo
 ---
 
 Hysteresis in unemployment: This is achieved through two approaches. First we used the
