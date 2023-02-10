@@ -1,7 +1,7 @@
 ---
 layout: page
 title: An Estimation of the Natural Rate of Interest
-description: A work in progress with Prof Mehmet Balcilar of the Eastern Mediterranean University in Cyprus
+description: With Prof Mehmet Balcilar of the Eastern Mediterranean University in Cyprus
 img: #assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
