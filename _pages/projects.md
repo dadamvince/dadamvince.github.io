@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: My works in progress that include co-authors and those in which I am the main contributor
 nav: true
