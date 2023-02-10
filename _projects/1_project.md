@@ -1,17 +1,18 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Labour Market Flows with Heterogeneity and Capital
+description:
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+An investigation of labour market flows in
+a search and matching setting with public and private sectors, capital-skill complementarity and
+embodied technological progress, and heterogeneity of both households and workers. We assume
+skill gap in this model to analyse changes in labour flows due to productivity increases and public wage premium. Further, we plan to model on-the-job search a la Moreno-Glabis and Sneessens
+(2007) between simple and complex jobs (for skilled individuals) and between public and private
+sector jobs (for all individuals). The heterogeneity between public and private sectors follows the framework by Gomes (2018).
 
     ---
     layout: page
