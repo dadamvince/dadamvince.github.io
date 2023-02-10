@@ -2,7 +2,7 @@
 layout: page
 title: Hysteresis in Unemployment
 description:
-img: assets/img/12.jpg
+img: #assets/img/12.jpg
 importance: 2
 category: Work in progress
 ---
