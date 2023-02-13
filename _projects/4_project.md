@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mobile Money in an Era of Cryptocurrencies
+title: Mobile Money in an Era of Crypto
 description: With Cyril Dell'Eva
 img: assets/img/fintech2.png
 importance: 3
