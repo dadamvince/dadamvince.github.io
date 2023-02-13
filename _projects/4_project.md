@@ -2,7 +2,7 @@
 layout: page
 title: Mobile Money in an Era of Cryptocurrencies
 description: With Cyril Dell'Eva (Laboratoire d'Economie Rouen Normandie- LERN)
-img:
+img: assets/img/fintech2.jpg
 importance: 3
 category: Collaboration
 ---

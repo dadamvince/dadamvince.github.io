@@ -2,7 +2,7 @@
 layout: page
 title: Hysteresis in Unemployment
 description:
-img: #assets/img/12.jpg
+img: assets/img/uenmp.jpg
 importance: 2
 category: Solo
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Labour Market Flows with Heterogeneity and Capital
 description:
-img: #ssets/img/12.jpg
+img: assets/img/labourmarket.jpg
 importance: 1
 category: Solo
 ---
