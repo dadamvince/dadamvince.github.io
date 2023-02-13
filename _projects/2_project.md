@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hysteresis and Unemployment
+title: Hysteresis and the Labour Market
 description:
 img: assets/img/unemp.jpg
 importance: 2
