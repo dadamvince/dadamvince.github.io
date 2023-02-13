@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hysteresis in Unemployment
+title: Hysteresis and Unemployment
 description:
 img: assets/img/unemp.jpg
 importance: 2
