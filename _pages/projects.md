@@ -6,7 +6,7 @@ description: My works in progress that include co-authors and those in which I a
 nav: true
 nav_order: 2
 display_categories: [Collaboration, Solo]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
