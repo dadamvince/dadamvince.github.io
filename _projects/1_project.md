@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Labour Market Flows with Heterogeneity and Capital
+title: Labour Market Flows with Heterogeneity
 description:
 img: assets/img/labourmarket.jpg
 importance: 1
