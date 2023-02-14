@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Tukkiewerf 2-08</p>
-    <p>Department of Economics</p>
+    <p>[Department of Economics](https://www.up.ac.za/economics)</p>
     <p>University of Pretoria South Africa</p>
 
 news: false  # includes a list of news items
