@@ -44,7 +44,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: true
-LinkedIn_icon: true
+linkedin_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
