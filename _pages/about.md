@@ -25,4 +25,4 @@ I am also a Policy Associate with Economic Research Southern Africa ([ERSA](http
 
 <p align="justify"> My field of research focuses on the modelling of the labour market at a macroeconomic level and the implications it may have for monetary policy conduct. At the moment, I am focusing on investigating labour market flows between public and private sector jobs in an economy battling with a significant skill gap and an exceptionally high level of unemployment.</p>
 
-<p align="justify"> Another area I am currently exploring is the investigation of the potential of Mobile Money as a digital currency in a world dominated by cryptocurrencies. This links with the current debate with on Central Bank Digital Currency (CBDC).</p>
+<p align="justify"> Another area I am currently exploring is the investigation of the potential of Mobile Money as a digital currency in a world dominated by cryptocurrencies. This links with the current debate on Central Bank Digital Currency (CBDC).</p>
