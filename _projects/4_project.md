@@ -14,4 +14,4 @@ multiple fronts. That includes - but not limited to - a panel analysis and a geo
 analysis that will give us a bird’s eye view of the evolution of the transactions using mobile money
 through time.</p>
 
-<p align="justify"> This project is part of an international network of research with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads this general project.</p>
+<p align="justify"> This project is part of an international network of research with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads this general project.
