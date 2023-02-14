@@ -15,7 +15,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am currently a Postodoctoral Fellow at the University of Pretoria, sponsored by the South African Reserve Bank (SARB) Chair in Monetary Economics. I am also a Policy Associate with Economic Research Southern Africa ([ERSA](https://econrsa.org)) where I am part of a team running the South African Modelling Network ([SAMNet](https://samnet.org.za/)). The [SAMNet page](/samnet/) on this website will provide you with further information.
