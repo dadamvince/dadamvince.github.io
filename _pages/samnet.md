@@ -15,4 +15,4 @@ SAMNet is founded on three main pillars:
 - Training: Promote training opportunities with a focus on forecasting and modelling to set the standards on the use of models in policy analysis.
 
 SAMNet is affiliate with Economic Research Southern Africa ([ERSA](https://econrsa.org)) and we frequently organize [workshops](https://samnet.org.za/training-workshops/past-events/).
-For more information, visit: [SAMNet](https://samnet.org.za/)
+For more information, visit: [SAMNet](https://samnet.org.za/).
