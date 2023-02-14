@@ -6,7 +6,7 @@ subtitle: <a href='#'>WELCOME.</a>
 
 profile:
   align: right
-  image: assets/img/pp.jpg
+  image: pp.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Tukkiewerf 2-08</p>
