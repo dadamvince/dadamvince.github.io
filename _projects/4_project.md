@@ -7,7 +7,7 @@ importance: 3
 category: collaboration
 ---
 
-<p align="justify" We study the evolution of mobile money in Africa since its implementation in the early 2000s, and we investigate its potential to become a
+<p align="justify"> We study the evolution of mobile money in Africa since its implementation in the early 2000s, and we investigate its potential to become a
 digital currency. Meetings have been planned with a Mobile Financial Services executive from the
 mobile operator Orange who has agreed to share the significantly rich data we intend to analyse on
 multiple fronts. That includes - but not limited to - a panel analysis and a geospatial
