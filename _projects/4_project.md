@@ -4,7 +4,7 @@ title: Mobile Money in the Era of Crypto
 description: With Cyril Dell'Eva
 img: assets/img/fintech2.png
 importance: 3
-category: Collaboration
+category: collaboration
 ---
 
 We study the evolution of mobile money in
@@ -14,4 +14,5 @@ mobile operator Orange who has agreed to share the significantly rich data we in
 multiple fronts. That includes - but not limited to - a panel analysis and a geospatial
 analysis that will give us a bird’s eye view of the evolution of the transactions using mobile money
 through time.
-This project is part of an international network of research with the goal of investigating the digital currencies in central banks.
+
+This project is part of an international network of research with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads this general project.

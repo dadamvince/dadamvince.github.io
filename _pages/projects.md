@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My works in progress that include co-authors and those in which I am the main contributor
+description: My work in progress that include co-authors and those in which I am the main contributor
 nav: true
 nav_order: 2
-display_categories: [Collaboration, Solo]
+display_categories: [collaboration, solo]
 horizontal: false
 ---
 
