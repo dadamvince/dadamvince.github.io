@@ -15,7 +15,7 @@ analysis that will give us a bird’s eye view of the evolution of the transacti
 through time.</p>
 
 div
-{text-align:justify/left/right/center;
-text-justify:
-This project is part of an international network of research with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads this general project.
+{text-align:justify;
+text-justify: inter-word;
 }
+<div>This project is part of an international network of research with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads this general project.</div>
