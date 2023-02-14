@@ -14,5 +14,5 @@ SAMNet is founded on three main pillars:
 - Code sharing: Facilitate the sharing of model codes and provide a platform for economists interested in economic modelling to engage with each other on model development techniques.
 - Training: Promote training opportunities with a focus on forecasting and modelling to set the standards on the use of models in policy analysis.
 
-SAMNet is affiliate with Economic Research Southern Africa (ERSA) and we frequently organize workshops.
+SAMNet is affiliate with Economic Research Southern Africa ([ERSA](https://econrsa.org)) and we frequently organize workshops.
 For more information, visit: [SAMNet](https://samnet.org.za/)
