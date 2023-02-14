@@ -17,5 +17,5 @@ through time.</p>
 div
 {text-align:justify/left/right/center;
 text-justify:
-This project is part of an international network of research with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie</p><p>([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads this general project.
+This project is part of an international network of research with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads this general project.
 }
