@@ -6,7 +6,7 @@ description: South African Modelling Network
 nav: true
 nav_order: 4
 ---
-In this initiative, I am part of a small team supervised by Prof Nicola Viegi, Head of the Department of Economics and South African Reserve Bank Chair in Monetary Economics at the University of Pretoria. The South African Modelling Network (SAMNet) goal is to stay in touch with developments in the macroeconomic scene at the global level. The idea is to pool resources in order to connect national policy and academic research with global trends.
+In this initiative with Prof Nicola Viegi, Head of the Department of Economics and South African Reserve Bank Chair in Monetary Economics at the University of Pretoria, we are a small team that created and manages the South African Modelling Network (SAMNet). SAMNet is a platform that promotes the development and sharing of modelling and forecasting tools for the South African economy. The goal is to stay in touch with recent developments in the macroeconomic scene at the global level. This is achieved by pooling resources in order to connect national policymakers and academic researchers with global trends.
 
 SAMNet is founded on three main pillars:
 
