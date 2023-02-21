@@ -12,3 +12,5 @@ category: collaboration
 This project is part of an international network of researchers with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/le-laboratoire-0)) of the University of Rouen leads the initiative.
 
 <a href="https://linuxhint.com/">Linuxhint</a>
+
+<p align="justify"> This project is part of an international network of researchers with the goal of investigating the digital currencies in central banks. The Laboratoire d'Economie Rouen Normandie <a href="https://lern.univ-rouen.fr/le-laboratoire-0">LERN</a> of the University of Rouen leads the initiative. </p>
