@@ -2,16 +2,14 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>WELCOME.</a>
+subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.JPEG
+  align: left
+  image: prof_pic3.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Tukkiewerf 2-08</p>
-    <p>Department of Economics</p>
-    <p>University of Pretoria South Africa</p>
+
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
