@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
 description: 
-nav: true
-nav_order: 2
-display_categories: [collaboration, solo]
+nav: false
+nav_order: 0
+display_categories: 
 horizontal: false
 ---
 

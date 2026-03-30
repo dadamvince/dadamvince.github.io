@@ -33,6 +33,44 @@ body.sticky-bottom-footer {
   }
 }
 
+//CV
+
+.cv-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  padding: 0.4rem 0.75rem;
+  border-radius: 6px;
+
+  font-size: 0.9rem;
+  font-weight: 500;
+
+  background-color: var(--global-theme-color);
+  color: white;
+
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+/* ensure BOTH text and icon stay white */
+.cv-button,
+.cv-button span,
+.cv-button i {
+  color: white;
+}
+
+.cv-button:hover {
+  background-color: #1c6ed5;
+  color: white;
+}
+
+.cv-button:hover span,
+.cv-button:hover i {
+  color: white;
+}
+
+
 // TODO: redefine content layout.
 
 

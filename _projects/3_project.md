@@ -1,12 +1,12 @@
 ---
 layout: page
-title: An Estimation of the Natural Rate of Interest
-description: With Prof Mehmet Balcilar
-img: assets/img/nir.jpg
-importance: 3
-category: collaboration
+title: Hysteresis and the Labour Market
+description:
+img: assets/img/unemp.jpg
+importance: 2
+category:
 ---
 
-<p align="justify"> This estimation approach of the natural rate of interest focuses particularly on the COVID-19 era using various measures of economic activity to better capture an estimate of the output gap. We use both the Oxford Stringency and Google Mobility indices to provide an estimate of potential GDP in order to derive a more accurate definition of the output gap which in turns leads to a more convincing estimate for the natural rate of interest.</p>
+<p align="justify"> We investigate hysteresis in the labour market using two approaches. First We used the Preisach model - a mathematical framework for hysteresis in physics and electromagnetism - to derive an index of hysteresis in the unemployment data where only long lasting shocks remain in the memory bank of the series (see Piscitelli, Cross, Grinfeld, and Lamba (2000)). Second, We use a DSGE model a la Blanchard and Gali (2010) which we extend on two fronts: (i) we account for the external sector following Gali and Monacelli (2005); (ii) we use the framework of Gali (2015) that introduces hysteresis in the labour market in a DSGE setting. This allows us to derive a marginal cost of firms that depends directly on labour market variables (unemployment in particular), on the hysteresis parameter and on terms of trade shocks.</p>
 
-<p align="justify"> This project is in progress with Prof Mehmet Balcilar from the Eastern Mediterranean University in Cyprus.</p>
+<p align="justify"> We completed the first part of the project and published a paper in the <a href="https://onlinelibrary.wiley.com/doi/10.1111/saje.12366">South African Journal of Economics</a>.</p>

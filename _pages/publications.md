@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description:
-years: [2024, 2019, 2018, 2017, 2014]
+years: [2025, 2024, 2019, 2018, 2017, 2014]
+display_categories: [publication, working paper]
 nav: true
 nav_order: 1
 ---

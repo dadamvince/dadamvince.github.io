@@ -4,7 +4,7 @@ title: Labour Market Flows with Heterogeneity
 description:
 img: assets/img/labourmarket.jpg
 importance: 1
-category: solo
+category:
 ---
 
 <p align="justify"> An investigation of labour market flows in a search and matching setting with public and private sectors, capital-skill complementarity and
