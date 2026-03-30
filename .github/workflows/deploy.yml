@@ -46,13 +46,6 @@ jobs:
 
           echo "DEPLOY_BRANCH=gh-pages" >> "$GITHUB_OUTPUT"
 
-      - name: Fix permissions
-        shell: bash
-        run: |
-          if [ -d bin ]; then
-            chmod +x bin/* || true
-          fi
-
       - name: Deploy website
         shell: bash
         run: |
