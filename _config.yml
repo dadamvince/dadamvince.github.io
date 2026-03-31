@@ -366,8 +366,8 @@ academicons:
 bootstrap:
   version: "5.3.3"
   integrity:
-    css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
-    js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+    css: ""
+    js: ""
 
 bootstrap-table:
    integrity:
